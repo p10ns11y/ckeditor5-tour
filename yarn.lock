@@ -25,9 +25,29 @@
     "@ckeditor/ckeditor5-engine" "^1.0.0-alpha.2"
     "@ckeditor/ckeditor5-utils" "^1.0.0-alpha.2"
 
+"@ckeditor/ckeditor5-editor-balloon@^1.0.0-alpha.2":
+  version "1.0.0-alpha.2"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-editor-balloon/-/ckeditor5-editor-balloon-1.0.0-alpha.2.tgz#51696ee2da4d8d85d2dff5cc93068173b5634d52"
+  dependencies:
+    "@ckeditor/ckeditor5-core" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-engine" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-theme-lark" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-ui" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-utils" "^1.0.0-alpha.2"
+
 "@ckeditor/ckeditor5-editor-classic@^1.0.0-alpha.2":
   version "1.0.0-alpha.2"
   resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-editor-classic/-/ckeditor5-editor-classic-1.0.0-alpha.2.tgz#cb3bfa0525f8c9f80925e046925fa067b021ce08"
+  dependencies:
+    "@ckeditor/ckeditor5-core" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-engine" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-theme-lark" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-ui" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-utils" "^1.0.0-alpha.2"
+
+"@ckeditor/ckeditor5-editor-inline@^1.0.0-alpha.2":
+  version "1.0.0-alpha.2"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-editor-inline/-/ckeditor5-editor-inline-1.0.0-alpha.2.tgz#d566c9d0329ce25257d74ea408b6ee5b58c397e2"
   dependencies:
     "@ckeditor/ckeditor5-core" "^1.0.0-alpha.2"
     "@ckeditor/ckeditor5-engine" "^1.0.0-alpha.2"
