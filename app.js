@@ -25,6 +25,10 @@ InlineEditor
     } )
     .then( editor => {
         console.log( 'Editor was initialized', editor );
+
+        // Inheritance chain
+        // __proto__(standardEditor).__proto__(Editor).getData()
+        console.log( 'Editor data', editor.getData() );
     } )
     .catch( error => {
         console.error( error.stack );
