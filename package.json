@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "node-sass": "^4.7.2",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-basic-styles": "^1.0.0-alpha.2",
+    "@ckeditor/ckeditor5-editor-classic": "^1.0.0-alpha.2",
+    "@ckeditor/ckeditor5-essentials": "^1.0.0-alpha.2",
+    "@ckeditor/ckeditor5-paragraph": "^1.0.0-alpha.2"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
