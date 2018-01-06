@@ -9,13 +9,17 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-basic-styles": "^1.0.0-alpha.2",
+    "@ckeditor/ckeditor5-core": "^1.0.0-alpha.2",
     "@ckeditor/ckeditor5-editor-balloon": "^1.0.0-alpha.2",
     "@ckeditor/ckeditor5-editor-classic": "^1.0.0-alpha.2",
     "@ckeditor/ckeditor5-editor-inline": "^1.0.0-alpha.2",
+    "@ckeditor/ckeditor5-engine": "^1.0.0-alpha.2",
     "@ckeditor/ckeditor5-essentials": "^1.0.0-alpha.2",
+    "@ckeditor/ckeditor5-image": "^1.0.0-alpha.2",
     "@ckeditor/ckeditor5-paragraph": "^1.0.0-alpha.2"
   },
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "watch": "webpack -w"
   }
 }

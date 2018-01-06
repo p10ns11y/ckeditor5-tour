@@ -6,7 +6,7 @@ const path = require( 'path' );
 
 module.exports = {
     // https://webpack.js.org/configuration/entry-context/
-    entry: './app.js',
+    entry: './src/app.js',
 
     // https://webpack.js.org/configuration/output/
     output: {

@@ -79,6 +79,17 @@
     "@ckeditor/ckeditor5-typing" "^1.0.0-alpha.2"
     "@ckeditor/ckeditor5-undo" "^1.0.0-alpha.2"
 
+"@ckeditor/ckeditor5-image@^1.0.0-alpha.2":
+  version "1.0.0-alpha.2"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-image/-/ckeditor5-image-1.0.0-alpha.2.tgz#c1b530d76aef1aa91da97c27307c8d68555bee2d"
+  dependencies:
+    "@ckeditor/ckeditor5-core" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-engine" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-theme-lark" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-ui" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-utils" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-widget" "^1.0.0-alpha.2"
+
 "@ckeditor/ckeditor5-paragraph@^1.0.0-alpha.2":
   version "1.0.0-alpha.2"
   resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-paragraph/-/ckeditor5-paragraph-1.0.0-alpha.2.tgz#2c74c82d652e7950b34eac4c5113f2b80897a258"
@@ -120,6 +131,15 @@
 "@ckeditor/ckeditor5-utils@^1.0.0-alpha.2":
   version "1.0.0-alpha.2"
   resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-utils/-/ckeditor5-utils-1.0.0-alpha.2.tgz#fc702f07d8efb88a67970171276dc9ae0f11d7f0"
+
+"@ckeditor/ckeditor5-widget@^1.0.0-alpha.2":
+  version "1.0.0-alpha.2"
+  resolved "https://registry.yarnpkg.com/@ckeditor/ckeditor5-widget/-/ckeditor5-widget-1.0.0-alpha.2.tgz#a26cdd9543df6d87aea67ce4df8f30e1112b86ea"
+  dependencies:
+    "@ckeditor/ckeditor5-core" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-engine" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-theme-lark" "^1.0.0-alpha.2"
+    "@ckeditor/ckeditor5-utils" "^1.0.0-alpha.2"
 
 abbrev@1:
   version "1.1.1"
